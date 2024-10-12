@@ -34,7 +34,7 @@ fn main() {
     );
     println!();
     println!(
-        "If you want to use rust-analyzer, Rust's LSP implementation, make sure your editor is set"
+        "Ifx you want to use rust-analyzer, Rust's LSP implementation, make sure your editor is set"
     );
     println!("up, and then run `rustlings lsp` before continuing.")
 }
